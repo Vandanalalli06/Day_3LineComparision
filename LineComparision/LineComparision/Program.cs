@@ -1,10 +1,16 @@
-﻿namespace Basicprogram
+﻿namespace BasicProgram
 {
-    class Program
+    internal class Comparision
     {
         public static void Main(String[] args)
         {
-            Console.WriteLine("Welcome to LineComparision");
+            
+            
+
+
+
+
+
         }
     }
 }
